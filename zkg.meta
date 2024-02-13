@@ -1,0 +1,8 @@
+[package]
+name = hash-files
+namespace = soc-partner
+description = Define which hashing algorithm to use with files
+credits = Romain <romain@soc-partner.com>
+script_dir = .
+depends = 
+zeek >=4.0.0
