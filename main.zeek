@@ -1,6 +1,6 @@
 ##! Define which hashing algorithm to use with files
 
-module file-hash
+module hash_files;
 
 @load base/files/hash
 
